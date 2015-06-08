@@ -1,12 +1,12 @@
 @charset "windows-1251";
-/* CSS Document */ 
-/* Under Construction Machine by Kontramax - Blueprint Skin */  
+/* CSS Document */
+/* Under Construction Machine by Kontramax - Light Skin */  
 
 html, body{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #365a82;  /* Used for testing */
+	background-color: #e2e7ed;  /* Used for testing */
 }
 a {
 	padding: 0 3px 0 3px;
@@ -14,24 +14,24 @@ a {
 	text-decoration: none;
 }
 a.twitter_link { 
-	color: #40d4ff;
+	color: #46b4ea;
 }
 a.twitter_link:hover { 
-	background: #40d4ff;
+	background: #46b4ea;
 	color: #FFF;
 	border-radius: 15px 15px 15px 15px;
 }
 a.facebook_link { 
-	color: #7999df;
+	color: #627aad;
 }
 a.facebook_link:hover { 
-	background: #7999df;
+	background: #627aad;
 	color: #FFF;
 	border-radius: 15px 15px 15px 15px;
 }
 
 #animation {
-	background-color: #365a82; /* Background color */
+	background-color: #e2e7ed; /* Background color */
 	position: relative;
 }
 #counter {
@@ -47,7 +47,7 @@ a.facebook_link:hover {
 	font-family: 'Sniglet', cursive;
 	font-size: 102px;
 	line-height: 0.9;
-	color: #b5c3d1;
+	color: #AABBCC;
 	text-align: right;
 }
 #txt2 {
@@ -61,17 +61,17 @@ a.facebook_link:hover {
 #txt2a {
 	font-size: 34px;
 	line-height: 1;
-	color: #40d4ff;
+	color: #FFFFFF;
 }
 #txt2b {
 	font-size: 40px;
 	line-height: 0.8;
-	color: #40d4ff;
+	color: #FFFFFF;
 }
 #txt2c {
 	font-size: 17px;
 	line-height: 1.2;
-	color: #40d4ff;
+	color: #FFFFFF;
 }
 #txt3 {
 	float: left; 
@@ -79,7 +79,7 @@ a.facebook_link:hover {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
-	color: #DBE5EE;
+	color: #5D616D;
 	text-align: left;
 	margin-left: 10px;
 }
@@ -90,7 +90,7 @@ a.facebook_link:hover {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	line-height: 2;
-	color: #DBE5EE; /* Color of text */
+	color: #5D616D; /* Color of text */
 	width: 300px;
 }
 .hasCountdown {
@@ -134,7 +134,7 @@ a.facebook_link:hover {
 	float: left;
 	font-size: 75%;
 	text-align: center;
-	background: #4e749c; /* Color of counter circles */
+	background: #AABBCC; /* Color of counter circles */
 	width: 70px;
 	height: 59px;
 	border-radius: 50%;
@@ -143,7 +143,7 @@ a.facebook_link:hover {
 .countdown_amount {
 	font-family: 'Sniglet', cursive;
 	font-size: 220%;
-	color: #DBE5EE; /* Color of counter digits */
+	color: #fbfcfc; /* Color of counter digits */
 	line-height: 2.3;
 	
 }

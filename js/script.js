@@ -1,16 +1,16 @@
 // Initial setup
 var preloader_width = 150; // Preloader width
 var preloader_height = 4; // Preloader height
-var preloader_color_fill = "#aabbcc"; // Preloader fill color 
-var preloader_color_outline = "#aabbcc"; // Preloader outline color
-var preloader_color_text = "#aabbcc"; // Preloader text color
-var liquid_color = "#40d4ff"; // Color of animated liquid
+var preloader_color_fill = "#656A77"; // Preloader fill color 
+var preloader_color_outline = "#656A77"; // Preloader outline color
+var preloader_color_text = "#656A77"; // Preloader text color
+var liquid_color = "#ffcf3e"; // Color of animated liquid
 var background_path = "images/background.png"; // Specify here path to your main background
 var background_type = "stretched"; // Specify background type (can be "stretched", "fixed")
 var background_pattern_usage = true; // Use pattern above main background (true, false)
 var background_pattern_path = "images/pattern.png"; // Specify here path to your pattern
-var background_pattern_alpha = 0.25; // Specify here alpha of your pattern (from 0 to 1)
-var background_pattern_scale = 100; // Scale factor of your pattern (in percents)
+var background_pattern_alpha = 0.13; // Specify here alpha of your pattern (from 0 to 1)
+var background_pattern_scale = 50; // Scale factor of your pattern (in percents)
 var background_pattern_rotation = 0; // Rotation factor of your pattern
 var logo_path = "images/logo.png"; // Specify here path to your logo
 var logo_scale = 100; // Logo sale factor (in percents)
