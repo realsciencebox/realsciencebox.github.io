@@ -273,6 +273,6 @@ function draw_pattern() {
 // jQuery Countdown styles 1.6.1. - plugin by Keith Wood
 function counter_start() {
 	var austDay = new Date();
-	austDay = new Date(2015, 8 , 1); // Examples: (austDay.getFullYear() + 1, 3 - 1, 6) or (2013, 3 - 1, 6)
+	austDay = new Date(2015, 8 - 1, 1); // Examples: (austDay.getFullYear() + 1, 3 - 1, 6) or (2013, 3 - 1, 6)
 	$("#defaultCountdown").countdown({until: austDay, format: 'DHMS'});
 }
